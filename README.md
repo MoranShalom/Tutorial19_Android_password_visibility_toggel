@@ -1,5 +1,6 @@
 
-### Android password visibility toggel_______________________________________
+### Android password visibility toggel
+_______________________________________
 * See   [dialog_login.xml](https://github.com/MoranShalom/Tutorial19_Android_password_visibility_toggel/blob/master/app/src/main/res/layout/activity_main.xml) 
 
 
