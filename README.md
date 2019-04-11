@@ -1,7 +1,7 @@
 
 ### Android password visibility toggel
 _______________________________________
-* See   [dialog_login.xml](https://github.com/MoranShalom/Tutorial19_Android_password_visibility_toggel/blob/master/app/src/main/res/layout/activity_main.xml) 
+* See   [activity_mail.xml](https://github.com/MoranShalom/Tutorial19_Android_password_visibility_toggel/blob/master/app/src/main/res/layout/activity_main.xml) 
 
 
 * See [MainActivity ](https://github.com/MoranShalom/Tutorial19_Android_password_visibility_toggel/blob/master/app/src/main/java/com/example/t19_password_visibility_toggle/MainActivity.java)for the class work code
